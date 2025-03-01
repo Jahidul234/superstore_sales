@@ -9,7 +9,8 @@ overview of the project:
 - `EXPLORE DATA AND CLEAN_DATA.sql`: In the clean data ,we were required to find if there is any null value or column with invalid format or any other data anomaly which could create 
                                      hindrance  in proper data analysis
 - `EXPLORATORY DATA ANALYSIS.sql` : In this section the clients required some analysis   which will help him to take proper economic decision. In this analysis we discussed on the 
-                                    following issues: 1. TOTAL SALES AND TOTAL PROFIT
+                                    following issues:
+                                                      1. TOTAL SALES AND TOTAL PROFIT
                                                       2. SALES AND PROFIT BY PRODUCT CATEGORY
                                                       3. Top 10 Best-Selling Products
                                                       4. Profit Margin per Product
@@ -33,8 +34,8 @@ overview of the project:
 3.EDA ANALYSIS:
 
 ** RESULT : From the analysis we  have found  some good observations .These observations are given below:
-                 1. Data is relatively clean and almost no null value
-                 2.Technological products gain highest products and sales.
+                ` 1. Data is relatively clean and almost no null value`
+                `2.Technological products gain highest products and sales.`
                  3.'Global Troy™ Executive Leather Low-Back Tilter'  earns highest sales.
                  4. 'Advantus Panel Wall Acrylic Frame' earns highest profit for the  organisation
                  5. 'Gordon Brandt'  buys most from the organisation
