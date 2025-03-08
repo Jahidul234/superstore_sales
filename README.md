@@ -34,13 +34,13 @@ overview of the project:
 3.EDA ANALYSIS:
 
 ** RESULT : From the analysis we  have found  some good observations .These observations are given below:- 
-                -  1. Data is relatively clean and almost no null value
-                -  2.Technological products gain highest products and sales.
-                -  3.'Global Troy™ Executive Leather Low-Back Tilter'  earns highest sales.
-                -  4. 'Advantus Panel Wall Acrylic Frame' earns highest profit for the  organisation
-                -  5. 'Gordon Brandt'  buys most from the organisation
-                -  6.  In January 2010 clients ordered most number of products.
-                -  7.  Aveage lead time is 2.02 days which is good but not best.
+                -  `1. Data is relatively clean and almost no null value`
+                -  `2.Technological products gain highest products and sales.`
+                -  `3.'Global Troy™ Executive Leather Low-Back Tilter'  earns highest sales.`
+                - ` 4. 'Advantus Panel Wall Acrylic Frame' earns highest profit for the  organisation`
+                -  `5. 'Gordon Brandt'  buys most from the organisation`
+                -  `6.  In January 2010 clients ordered most number of products.`
+                -  `7.  Aveage lead time is 2.02 days which is good but not best.`
 
 
 
