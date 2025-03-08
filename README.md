@@ -10,20 +10,22 @@ overview of the project:
                                      hindrance  in proper data analysis
 - `EXPLORATORY DATA ANALYSIS.sql` : In this section the clients required some analysis   which will help him to take proper economic decision. In this analysis we discussed on the 
                                     following issues:
-                                                      1. TOTAL SALES AND TOTAL PROFIT
-                                                      2. SALES AND PROFIT BY PRODUCT CATEGORY
-                                                      3. Top 10 Best-Selling Products
-                                                      4. Profit Margin per Product
-                                                      5. Top 10 Customers by Sales
-                                                      6. Order Frequency Analysis
-                                                      7. Sales Contribution by Customer Segment
-                                                      8. Monthly Sales Trend
-                                                      9. Yearly Sales Growth
-                                                      10.Days Between Order and Shipping
-                                                      11.Return Rate by Category
-                                                      12.Impact of Discounts on Profit
-                                                      13.check for duplicate orders
-                                                      14.Sales by Shipping Mode
+  
+                                                    ##   1. TOTAL SALES AND TOTAL PROFIT
+                                                    ##   2. SALES AND PROFIT BY PRODUCT CATEGORY
+                                                    ##   3. Top 10 Best-Selling Products
+                                                    ##   4. Profit Margin per Product
+                                                    ##   5. Top 10 Customers by Sales
+                                                    ##   6. Order Frequency Analysis
+                                                    ##   7. Sales Contribution by Customer Segment
+                                                    ##   8. Monthly Sales Trend
+                                                    ##   9. Yearly Sales Growth
+                                                    ##   10.Days Between Order and Shipping
+                                                    ##   11.Return Rate by Category
+                                                    ##   12.Impact of Discounts on Profit
+                                                    ##   13.check for duplicate orders
+                                                    ##   14.Sales by Shipping Mode
+  
 - `RFM_SEGMENTATION.sql`: RFM segmentation indicates Recency,Frequesncy and  Monetary value. This analysis is fundemental analysis for retaining and impleneting new products and services.
 
 ***  DATABASE MANAGEMENT SYSTEM IS MYSQL .DATA IS IMPORTED BY "EXCEL TO DB DATA IMPORT TOOL"
